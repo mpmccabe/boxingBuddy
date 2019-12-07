@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">boxingBuddy</string>
+
+    <!-- TitleFragment -->
+    <string name="welcome_text">Let\'s get started!</string>
+    <string name="play_button_text">Exercise!</string>
+    <string name="logo_desc">A barbell</string>
+
+    <!-- WorkoutFragment -->
+    <string name="hello_blank_fragment">Get your ass to mars!</string>
+
+</resources>
