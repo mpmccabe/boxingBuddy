@@ -8,5 +8,9 @@
 
     <!-- WorkoutFragment -->
     <string name="hello_blank_fragment">Get your ass to mars!</string>
+    <string name="done_text">Done!</string>
+    <string name="skip_text">Skip!</string>
+    <string name="exercise_is">Your current exercise...</string>
+    <string name="exercise_string">Rub your butt!</string>
 
 </resources>
